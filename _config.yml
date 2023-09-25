@@ -1,0 +1,8 @@
+title: protasys.GitHub.io/help
+description: Protasys LLC for fun games.
+google_analytics:
+show_downloads: false
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
