@@ -238,4 +238,4 @@ The PNN library provides a powerful and easy-to-use interface for neural network
 
 ## 5. Contact Information
 
-If you have any questions or need further assistance, please contact Protasys, LLC at protasysllc@gmail.com.
+If you have any questions or need further assistance, please contact us at protasysllc@gmail.com.
