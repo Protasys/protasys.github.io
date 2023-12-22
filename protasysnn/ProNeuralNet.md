@@ -10,7 +10,7 @@ After copy the plugin source to the Plugins/ dir, you can enable the plugin as s
 
 # [libpnn](./libpnn.md)
 
->The Protasys Neural Network Library (libpnn) is a neural network library developed by Protasys LLC <sup>[1]</sup>, providing basic functions and interfaces needed for neural network training.
+>The Protasys Neural Network Library (libpnn) <sup>[1]</sup> is a neural network library developed by Protasys LLC <sup>[2]</sup>, providing basic functions and interfaces needed for neural network training.
 >
 >Users can train test data through the qpnn project.
 
@@ -40,6 +40,7 @@ PNNSystem is responsible for organizing INN and managing INNCore
 
 ### INN
 INN is the interface of the neural network object NN
+
 NN provides users with basic training and recognition interfaces of neural networks, INN is not thread-safe by default during development
 
 ### INNCore
@@ -73,6 +74,8 @@ PNNSystem()
 
 # References
 
-[1] [Home Page of Protasys LLC ](https://protasys.github.io/)
+[1] [libpnn, The simple way to use NN in C/C++ with Protasys Neural Network Library](./libpnn.md)
+
+[2] [Home Page of Protasys LLC ](https://protasys.github.io/)
 
 
