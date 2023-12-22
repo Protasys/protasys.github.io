@@ -2,7 +2,7 @@
 
 ProNeuralNet is a plugin of Unreal Engine. User can use this plugin to setup a "neural network brain" for actors. The "brain" can load and query at runtime.
 
-# libpnn
+# [libpnn](./libpnn.md)
 
 >The Protasys Neural Network Library (libpnn) is a neural network library developed by Protasys LLC <sup>[1]</sup>, providing basic functions and interfaces needed for neural network training.
 >
@@ -14,7 +14,7 @@ ProNeuralNet is a plugin of Unreal Engine. User can use this plugin to setup a "
 
 [English](./readme.md)
 
-[Chinese](./readme_ch.md)
+~[Chinese](./readme_ch.md) not support now~
 
 ---
 ## Mission
